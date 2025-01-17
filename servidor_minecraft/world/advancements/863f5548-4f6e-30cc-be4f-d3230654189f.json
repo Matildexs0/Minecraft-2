@@ -812,27 +812,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-01-16 21:43:39 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/choco_disguise_boots": {
-    "criteria": {
-      "has_chocobo_feather": "2025-01-16 21:35:55 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
     "criteria": {
       "has_flower": "2025-01-16 21:32:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_planks": {
+  "chococraft:recipes/misc/choco_disguise_boots": {
     "criteria": {
-      "has_log": "2025-01-16 21:36:21 +0000"
+      "has_chocobo_feather": "2025-01-16 21:35:55 +0000"
     },
     "done": true
   },
@@ -851,12 +839,6 @@
   "chococraft:recipes/misc/chocobo_whistle": {
     "criteria": {
       "has_chocobo_feather": "2025-01-16 21:35:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-01-16 21:36:21 +0000"
     },
     "done": true
   },
@@ -881,6 +863,24 @@
   "chococraft:recipes/misc/chocobo_saddle_bags": {
     "criteria": {
       "has_chocobo_feather": "2025-01-16 21:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-01-16 21:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-01-16 21:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-01-16 21:43:39 +0000"
     },
     "done": true
   },

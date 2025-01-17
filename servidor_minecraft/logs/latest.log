@@ -1262,3 +1262,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [17Jan2025 18:49:06.033] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathanxs0[/127.242.222.20:55319] logged in with entity id 5050 at (104.60778412226315, 169.0, -53.90555126305222)
 [17Jan2025 18:49:06.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 joined the game
 [17Jan2025 18:49:06.082] [Server thread/INFO] [Jade/]: Syncing config to jonathanxs0 (ee2bee6b-0e81-363f-b8f4-a95cb76b2936)
+[17Jan2025 18:54:51.519] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathanxs0 lost connection: Timed out
+[17Jan2025 18:54:51.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 left the game
+[17Jan2025 18:55:02.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathanxs0[/127.242.222.20:51663] logged in with entity id 6089 at (79.69999998807907, 94.0, -179.92110278023247)
+[17Jan2025 18:55:02.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 joined the game
+[17Jan2025 18:55:02.956] [Server thread/INFO] [Jade/]: Syncing config to jonathanxs0 (ee2bee6b-0e81-363f-b8f4-a95cb76b2936)
+[17Jan2025 19:00:07.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DANIELXZFE[/127.242.222.20:43477] logged in with entity id 6883 at (173.5481867840375, 174.0, -57.645124239894294)
+[17Jan2025 19:00:07.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE joined the game
+[17Jan2025 19:00:07.117] [Server thread/INFO] [Jade/]: Syncing config to DANIELXZFE (60aea8e0-017a-302d-9384-358ed29db2ab)

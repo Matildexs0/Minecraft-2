@@ -11,9 +11,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-17 04:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-17 03:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-17 04:10:55 +0000"
     },
     "done": true
   },
@@ -23,9 +35,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-17 04:03:37 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-01-17 03:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-17 04:10:56 +0000"
     },
     "done": true
   },
@@ -50,6 +74,12 @@
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
       "has_items": "2025-01-17 03:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-17 04:10:56 +0000"
     },
     "done": true
   },
@@ -113,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-17 04:03:37 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_fishing_rod": "2025-01-17 03:52:24 +0000",
@@ -123,6 +159,12 @@
   "aquaculture:recipes/decorations/oak_fish_mount": {
     "criteria": {
       "has_items": "2025-01-17 03:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-17 04:05:43 +0000"
     },
     "done": true
   },
@@ -165,6 +207,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-01-17 04:01:54 +0000",
       "shrubland": "2025-01-17 03:55:50 +0000",
       "rocky_shrubland": "2025-01-17 03:53:44 +0000",
       "scrubland": "2025-01-17 03:56:46 +0000",
@@ -182,6 +225,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-17 03:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-17 04:03:12 +0000"
     },
     "done": true
   },
@@ -206,6 +255,18 @@
   "aquaculture:recipes/aquaculture/double_hook": {
     "criteria": {
       "has_items": "2025-01-17 03:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-17 04:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-17 04:07:00 +0000"
     },
     "done": true
   },
@@ -275,6 +336,24 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-01-17 04:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-17 04:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-17 04:03:12 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/redstone_hook": {
     "criteria": {
       "has_items": "2025-01-17 03:52:24 +0000"
@@ -336,6 +415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-17 04:10:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-01-17 03:58:53 +0000"
@@ -351,6 +436,12 @@
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-01-17 03:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-17 04:03:37 +0000"
     },
     "done": true
   },
@@ -380,6 +471,12 @@
   "aquaculture:recipes/food/cooked_fish_fillet": {
     "criteria": {
       "has_items": "2025-01-17 03:52:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-01-17 04:03:37 +0000"
     },
     "done": true
   },
@@ -443,9 +540,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-01-17 04:02:10 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/diamond_hook": {
     "criteria": {
       "has_items": "2025-01-17 03:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-17 04:03:12 +0000"
     },
     "done": true
   },
@@ -459,13 +568,21 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-17 03:53:13 +0000",
-      "minecraft:cherry_grove": "2025-01-17 03:53:22 +0000"
+      "minecraft:cherry_grove": "2025-01-17 03:53:22 +0000",
+      "minecraft:frozen_peaks": "2025-01-17 04:06:08 +0000",
+      "minecraft:plains": "2025-01-17 04:11:37 +0000"
     },
     "done": false
   },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-01-17 03:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-17 04:03:37 +0000"
     },
     "done": true
   },
@@ -480,6 +597,12 @@
       "has_cobblestone": "2025-01-17 03:59:56 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-01-17 04:07:00 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
@@ -548,15 +671,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-17 04:02:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-17 03:59:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-17 04:03:21 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2025-01-17 03:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-17 04:03:21 +0000"
     },
     "done": true
   },

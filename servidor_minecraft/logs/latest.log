@@ -1271,3 +1271,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [17Jan2025 19:00:07.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE joined the game
 [17Jan2025 19:00:07.117] [Server thread/INFO] [Jade/]: Syncing config to DANIELXZFE (60aea8e0-017a-302d-9384-358ed29db2ab)
 [17Jan2025 19:05:43.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <julieth> A mimirrrr
+[17Jan2025 19:19:27.074] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/135, l='ServerLevel[world]', x=78.73, y=92.00, z=-157.64] died, message: 'Farmer was slain by Zombie'

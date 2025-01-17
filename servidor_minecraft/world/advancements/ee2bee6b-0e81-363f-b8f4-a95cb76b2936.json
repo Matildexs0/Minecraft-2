@@ -1229,6 +1229,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2025-01-17 04:30:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-01-17 04:32:42 +0000"
@@ -1247,27 +1253,33 @@
     },
     "done": true
   },
-  "simplefarming:crops": {
-    "criteria": {
-      "peanut": "2025-01-17 04:53:30 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-17 04:35:48 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "beetroots": "2025-01-17 04:30:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-01-17 04:35:48 +0000"
+    },
+    "done": true
+  },
+  "simplefarming:crops": {
+    "criteria": {
+      "peanut": "2025-01-17 04:53:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-17 05:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-01-17 05:08:05 +0000"
     },
     "done": true
   },

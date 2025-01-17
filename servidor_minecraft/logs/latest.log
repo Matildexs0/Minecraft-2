@@ -1264,3 +1264,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [17Jan2025 04:39:01.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [Monster Hunter]
 [17Jan2025 04:41:31.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth fell from a high place
 [17Jan2025 04:44:20.895] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/139, l='ServerLevel[world]', x=83.66, y=95.20, z=-124.30] died, message: 'Farmer was slain by Zombie'
+[17Jan2025 04:52:11.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth has made the advancement [Getting an Upgrade]
+[17Jan2025 04:53:21.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [Suit Up]

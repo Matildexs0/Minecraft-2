@@ -1247,6 +1247,12 @@
     },
     "done": true
   },
+  "simplefarming:crops": {
+    "criteria": {
+      "peanut": "2025-01-17 04:53:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-17 04:35:48 +0000"

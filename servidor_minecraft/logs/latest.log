@@ -1250,3 +1250,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [17Jan2025 03:24:10.146] [Server thread/INFO] [Jade/]: Syncing config to jonathanxs0 (ee2bee6b-0e81-363f-b8f4-a95cb76b2936)
 [17Jan2025 03:29:39.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 has made the advancement [Acquire Hardware]
 [17Jan2025 03:42:31.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 has made the advancement [Monster Hunter]
+[17Jan2025 03:52:24.405] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DANIELXZFE[/127.242.222.20:39303] logged in with entity id 6290 at (2.5, 150.0, 10.5)
+[17Jan2025 03:52:24.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE joined the game
+[17Jan2025 03:52:24.467] [Server thread/INFO] [Jade/]: Syncing config to DANIELXZFE (60aea8e0-017a-302d-9384-358ed29db2ab)
+[17Jan2025 03:55:28.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [Sweet Dreams]
+[17Jan2025 03:55:55.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <julieth> vvvvvv
+[17Jan2025 03:56:12.655] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/131, l='ServerLevel[world]', x=118.30, y=89.02, z=-160.82] died, message: 'Unemployed was slain by Zombie'

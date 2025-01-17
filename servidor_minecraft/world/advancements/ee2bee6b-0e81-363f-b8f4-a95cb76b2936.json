@@ -265,8 +265,14 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-16 20:47:57 +0000",
       "minecraft:cherry_grove": "2025-01-16 20:53:15 +0000",
+      "minecraft:beach": "2025-01-17 19:56:22 +0000",
       "minecraft:stony_peaks": "2025-01-17 04:35:14 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-17 20:11:25 +0000",
+      "minecraft:river": "2025-01-17 19:51:43 +0000",
       "minecraft:forest": "2025-01-17 04:36:50 +0000",
+      "minecraft:desert": "2025-01-17 20:11:32 +0000",
+      "minecraft:ocean": "2025-01-17 19:53:52 +0000",
+      "minecraft:warm_ocean": "2025-01-17 20:11:29 +0000",
       "minecraft:frozen_peaks": "2025-01-16 20:48:47 +0000",
       "minecraft:plains": "2025-01-16 20:53:28 +0000"
     },
@@ -278,9 +284,21 @@
       "shrubland": "2025-01-16 20:53:45 +0000",
       "rocky_shrubland": "2025-01-16 20:55:39 +0000",
       "scrubland": "2025-01-16 20:54:39 +0000",
+      "fungal_jungle": "2025-01-17 20:00:08 +0000",
       "jade_cliffs": "2025-01-16 20:49:09 +0000",
       "old_growth_woodland": "2025-01-16 20:58:46 +0000",
-      "spider_nest": "2025-01-16 21:54:38 +0000"
+      "maple_woods": "2025-01-17 20:18:34 +0000",
+      "field": "2025-01-17 20:18:32 +0000",
+      "mediterranean_forest": "2025-01-17 20:10:47 +0000",
+      "coniferous_forest": "2025-01-17 20:17:56 +0000",
+      "spider_nest": "2025-01-16 21:54:38 +0000",
+      "dryland": "2025-01-17 20:11:43 +0000",
+      "dune_beach": "2025-01-17 19:53:41 +0000",
+      "seasonal_forest": "2025-01-17 20:18:37 +0000",
+      "rocky_rainforest": "2025-01-17 19:59:13 +0000",
+      "pumpkin_patch": "2025-01-17 20:20:48 +0000",
+      "grassland": "2025-01-17 20:17:23 +0000",
+      "rainforest": "2025-01-17 19:57:06 +0000"
     },
     "done": false
   },
@@ -1186,6 +1204,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-17 18:28:07 +0000",
       "minecraft:spider": "2025-01-17 18:28:50 +0000",
+      "minecraft:creeper": "2025-01-17 19:39:59 +0000",
       "minecraft:zombie": "2025-01-17 03:42:31 +0000"
     },
     "done": false
@@ -1392,6 +1411,228 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-01-17 19:10:14 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/pickled_gysahl_raw": {
+    "criteria": {
+      "has_gysahl_green": "2025-01-17 20:21:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/gysahl_green_to_seeds": {
+    "criteria": {
+      "has_gysahl_green": "2025-01-17 20:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-17 19:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-17 20:18:55 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/gysahl_cake": {
+    "criteria": {
+      "has_gysahl_green": "2025-01-17 20:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-01-17 19:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-17 19:52:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-01-17 19:57:07 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/red_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2025-01-17 20:21:45 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocopedia": {
+    "criteria": {
+      "has_gysahl_green": "2025-01-17 20:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-17 20:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/pink_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2025-01-17 20:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-17 20:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-17 20:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-17 19:52:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-17 20:18:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-17 19:40:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-17 19:40:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-17 19:50:05 +0000"
     },
     "done": true
   },

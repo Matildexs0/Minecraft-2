@@ -3524,3 +3524,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [17Jan2025 04:34:03.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Jan2025 04:35:31.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [Acquire Hardware]
 [17Jan2025 04:35:39.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [Isn't It Iron Pick]
+[17Jan2025 04:39:01.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [Monster Hunter]
+[17Jan2025 04:39:03.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 04:39:03.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 04:41:31.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth fell from a high place
+[17Jan2025 04:44:03.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 04:44:03.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 04:44:20.895] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/139, l='ServerLevel[world]', x=83.66, y=95.20, z=-124.30] died, message: 'Farmer was slain by Zombie'

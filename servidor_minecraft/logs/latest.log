@@ -1270,3 +1270,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [17Jan2025 19:00:07.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DANIELXZFE[/127.242.222.20:43477] logged in with entity id 6883 at (173.5481867840375, 174.0, -57.645124239894294)
 [17Jan2025 19:00:07.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE joined the game
 [17Jan2025 19:00:07.117] [Server thread/INFO] [Jade/]: Syncing config to DANIELXZFE (60aea8e0-017a-302d-9384-358ed29db2ab)
+[17Jan2025 19:05:43.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <julieth> A mimirrrr

@@ -3835,3 +3835,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [17Jan2025 19:00:07.079] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@1bb0dff0 into net.minecraft.network.Connection@3b6e0ddd
 [17Jan2025 19:00:07.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE joined the game
 [17Jan2025 19:00:07.117] [Server thread/INFO] [Jade/]: Syncing config to DANIELXZFE (60aea8e0-017a-302d-9384-358ed29db2ab)
+[17Jan2025 19:04:03.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 19:04:03.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 19:05:43.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <julieth> A mimirrrr
+[17Jan2025 19:09:03.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 19:09:03.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

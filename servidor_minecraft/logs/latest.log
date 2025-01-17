@@ -1256,3 +1256,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [17Jan2025 03:55:28.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [Sweet Dreams]
 [17Jan2025 03:55:55.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <julieth> vvvvvv
 [17Jan2025 03:56:12.655] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/131, l='ServerLevel[world]', x=118.30, y=89.02, z=-160.82] died, message: 'Unemployed was slain by Zombie'
+[17Jan2025 03:56:44.649] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/132, l='ServerLevel[world]', x=122.20, y=85.18, z=-156.47] died, message: 'Unemployed was slain by Zombie'
+[17Jan2025 03:56:56.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE was slain by Zombie
+[17Jan2025 03:59:56.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [Stone Age]
+[17Jan2025 04:00:37.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [Getting an Upgrade]
+[17Jan2025 04:03:18.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth froze to death

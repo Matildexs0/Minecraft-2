@@ -3720,3 +3720,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [17Jan2025 06:00:04.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 has made the advancement [Alex's Mobs]
 [17Jan2025 06:01:06.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jan2025 06:01:06.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 06:06:06.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 06:06:06.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 06:07:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth has made the advancement [Suit Up]
+[17Jan2025 06:11:06.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 06:11:06.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -1255,3 +1255,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [17Jan2025 18:26:41.887] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: julieth[/127.243.126.200:49139] logged in with entity id 761 at (93.82671102925133, 94.0, -167.62049654448333)
 [17Jan2025 18:26:41.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth joined the game
 [17Jan2025 18:26:41.934] [Server thread/INFO] [Jade/]: Syncing config to julieth (863f5548-4f6e-30cc-be4f-d3230654189f)
+[17Jan2025 18:48:28.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathanxs0 moved too quickly! -4.3680668042391915,-6.233632006042484,-6.558048476934339
+[17Jan2025 18:48:47.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathanxs0 lost connection: Disconnected
+[17Jan2025 18:48:47.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 left the game
+[17Jan2025 18:48:48.020] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jan2025 18:49:06.033] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathanxs0[/127.242.222.20:55319] logged in with entity id 5050 at (104.60778412226315, 169.0, -53.90555126305222)
+[17Jan2025 18:49:06.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 joined the game
+[17Jan2025 18:49:06.082] [Server thread/INFO] [Jade/]: Syncing config to jonathanxs0 (ee2bee6b-0e81-363f-b8f4-a95cb76b2936)

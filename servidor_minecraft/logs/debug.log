@@ -3679,3 +3679,39 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [17Jan2025 05:14:51.003] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@42f19776 into net.minecraft.network.Connection@68beaa88
 [17Jan2025 05:14:51.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth joined the game
 [17Jan2025 05:14:51.066] [Server thread/INFO] [Jade/]: Syncing config to julieth (863f5548-4f6e-30cc-be4f-d3230654189f)
+[17Jan2025 05:15:38.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 has made the advancement [Suit Up]
+[17Jan2025 05:16:06.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 05:16:06.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 05:16:13.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=181, y=170, z=-50} BlockPos{x=181, y=170, z=-51}
+[17Jan2025 05:16:13.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=181, y=170, z=-50} BlockPos{x=181, y=170, z=-51}
+[17Jan2025 05:17:25.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=187, y=165, z=-53} BlockPos{x=186, y=165, z=-52}
+[17Jan2025 05:18:51.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=188, y=163, z=-57} BlockPos{x=191, y=161, z=-57}
+[17Jan2025 05:18:56.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=193, y=163, z=-55} BlockPos{x=193, y=162, z=-54}
+[17Jan2025 05:18:56.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=193, y=163, z=-55} BlockPos{x=193, y=162, z=-54}
+[17Jan2025 05:18:56.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=164, z=-55} BlockPos{x=192, y=163, z=-53}
+[17Jan2025 05:20:47.154] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=181, y=168, z=-55}) doesn't have enough leaves around top most log
+[17Jan2025 05:21:06.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 05:21:06.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 05:21:10.920] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=190, y=164, z=-54}) doesn't have enough leaves around top most log
+[17Jan2025 05:24:13.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=195, y=160, z=-53} BlockPos{x=195, y=159, z=-53}
+[17Jan2025 05:24:13.302] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=195, y=160, z=-53} BlockPos{x=195, y=159, z=-53}
+[17Jan2025 05:26:06.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 05:26:06.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 05:26:08.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth was blown up by Creeper
+[17Jan2025 05:27:00.711] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=182, y=170, z=-52}) doesn't have enough leaves around top most log
+[17Jan2025 05:27:04.005] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=184, y=163, z=-50}) doesn't have enough leaves around top most log
+[17Jan2025 05:31:06.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 05:31:06.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 05:32:52.699] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[17Jan2025 05:33:03.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [It's an Emu!!!]
+[17Jan2025 05:36:06.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 05:36:06.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 05:37:24.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [Best Friends Forever]
+[17Jan2025 05:41:06.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 05:41:06.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 05:44:17.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth has made the advancement [Monster Hunter]
+[17Jan2025 05:46:06.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 05:46:06.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 05:49:15.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=95, z=-171} BlockPos{x=67, y=94, z=-172}
+[17Jan2025 05:51:06.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 05:51:06.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

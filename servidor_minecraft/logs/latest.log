@@ -1284,3 +1284,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [17Jan2025 05:14:51.003] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: julieth[/127.243.126.200:58411] logged in with entity id 2475 at (100.53173338147472, 136.59884706160594, -79.20476380665367)
 [17Jan2025 05:14:51.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth joined the game
 [17Jan2025 05:14:51.066] [Server thread/INFO] [Jade/]: Syncing config to julieth (863f5548-4f6e-30cc-be4f-d3230654189f)
+[17Jan2025 05:15:38.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 has made the advancement [Suit Up]
+[17Jan2025 05:16:13.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=181, y=170, z=-50} BlockPos{x=181, y=170, z=-51}
+[17Jan2025 05:16:13.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=181, y=170, z=-50} BlockPos{x=181, y=170, z=-51}
+[17Jan2025 05:17:25.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=187, y=165, z=-53} BlockPos{x=186, y=165, z=-52}
+[17Jan2025 05:18:51.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=188, y=163, z=-57} BlockPos{x=191, y=161, z=-57}
+[17Jan2025 05:18:56.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=193, y=163, z=-55} BlockPos{x=193, y=162, z=-54}
+[17Jan2025 05:18:56.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=193, y=163, z=-55} BlockPos{x=193, y=162, z=-54}
+[17Jan2025 05:18:56.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=164, z=-55} BlockPos{x=192, y=163, z=-53}
+[17Jan2025 05:24:13.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=195, y=160, z=-53} BlockPos{x=195, y=159, z=-53}
+[17Jan2025 05:24:13.302] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=195, y=160, z=-53} BlockPos{x=195, y=159, z=-53}
+[17Jan2025 05:26:08.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth was blown up by Creeper
+[17Jan2025 05:33:03.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [It's an Emu!!!]
+[17Jan2025 05:37:24.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [Best Friends Forever]
+[17Jan2025 05:44:17.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth has made the advancement [Monster Hunter]
+[17Jan2025 05:49:15.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=95, z=-171} BlockPos{x=67, y=94, z=-172}

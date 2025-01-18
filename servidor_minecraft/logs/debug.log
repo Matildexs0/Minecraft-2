@@ -3818,3 +3818,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [18Jan2025 06:29:49.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cobalt (vehicle of jonathanxs0) moved wrongly! 0.6848632331298459
 [18Jan2025 06:29:50.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cobalt (vehicle of jonathanxs0) moved wrongly! 0.7660123947326343
 [18Jan2025 06:29:50.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cobalt (vehicle of jonathanxs0) moved wrongly! 0.4690493303121741
+[18Jan2025 06:34:29.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 06:34:29.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 06:34:34.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathanxs0 lost connection: Disconnected
+[18Jan2025 06:34:34.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 left the game
+[18Jan2025 06:34:47.622] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DANIELXZFE lost connection: Timed out
+[18Jan2025 06:34:47.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE left the game
+[18Jan2025 06:39:29.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 06:39:29.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

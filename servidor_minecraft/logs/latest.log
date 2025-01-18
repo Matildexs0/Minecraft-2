@@ -1364,3 +1364,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [18Jan2025 06:29:49.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cobalt (vehicle of jonathanxs0) moved wrongly! 0.6848632331298459
 [18Jan2025 06:29:50.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cobalt (vehicle of jonathanxs0) moved wrongly! 0.7660123947326343
 [18Jan2025 06:29:50.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cobalt (vehicle of jonathanxs0) moved wrongly! 0.4690493303121741
+[18Jan2025 06:34:34.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathanxs0 lost connection: Disconnected
+[18Jan2025 06:34:34.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 left the game
+[18Jan2025 06:34:47.622] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DANIELXZFE lost connection: Timed out
+[18Jan2025 06:34:47.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE left the game

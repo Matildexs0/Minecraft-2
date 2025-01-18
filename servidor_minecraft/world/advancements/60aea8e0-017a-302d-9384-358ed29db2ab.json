@@ -274,6 +274,7 @@
       "field": "2025-01-17 20:18:32 +0000",
       "orchard": "2025-01-17 20:16:54 +0000",
       "lavender_forest": "2025-01-17 19:22:15 +0000",
+      "mediterranean_forest": "2025-01-18 06:19:46 +0000",
       "coniferous_forest": "2025-01-17 20:21:45 +0000",
       "spider_nest": "2025-01-18 04:25:57 +0000",
       "dryland": "2025-01-17 20:09:26 +0000",
@@ -297,6 +298,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-17 03:53:13 +0000",
+      "minecraft:deep_ocean": "2025-01-18 06:27:52 +0000",
       "minecraft:cherry_grove": "2025-01-17 03:53:22 +0000",
       "minecraft:savanna_plateau": "2025-01-17 05:32:34 +0000",
       "minecraft:beach": "2025-01-17 20:11:33 +0000",
@@ -310,6 +312,7 @@
       "minecraft:jungle": "2025-01-17 20:07:11 +0000",
       "minecraft:ocean": "2025-01-17 20:16:23 +0000",
       "minecraft:warm_ocean": "2025-01-17 20:07:37 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-18 06:25:26 +0000",
       "minecraft:frozen_peaks": "2025-01-17 04:06:08 +0000",
       "minecraft:deep_dark": "2025-01-18 04:14:28 +0000",
       "minecraft:savanna": "2025-01-17 05:32:29 +0000",
@@ -2179,9 +2182,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-18 06:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-18 06:22:48 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
     "criteria": {
       "has_flower": "2025-01-18 05:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-18 06:22:48 +0000"
     },
     "done": true
   },
@@ -2203,9 +2224,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-18 06:26:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-01-18 06:04:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-18 06:22:47 +0000"
     },
     "done": true
   },

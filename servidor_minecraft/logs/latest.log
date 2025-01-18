@@ -1405,3 +1405,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [18Jan2025 03:26:25.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DANIELXZFE) moved wrongly! 0.5285902713645783
 [18Jan2025 03:26:25.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DANIELXZFE) moved wrongly! 0.6663959891156992
 [18Jan2025 03:33:44.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth tried to swim in lava
+[18Jan2025 03:37:45.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth tried to swim in lava
+[18Jan2025 03:41:51.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <julieth> ahhhhhhhh

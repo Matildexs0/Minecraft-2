@@ -36,5 +36,6 @@
   "minecraft:fluid_storage": null,
   "minecraft:energy_storage": null,
   "minecraft:progress": null,
-  "jade:object_name": null
+  "jade:object_name": null,
+  "gravestone:grave": null
 }

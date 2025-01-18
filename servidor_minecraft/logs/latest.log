@@ -1274,3 +1274,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [18Jan2025 04:48:54.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rose (vehicle of DANIELXZFE) moved wrongly! 0.5054834152910246
 [18Jan2025 04:48:54.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rose (vehicle of DANIELXZFE) moved wrongly! 0.6274354837681884
 [18Jan2025 04:48:54.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rose (vehicle of DANIELXZFE) moved wrongly! 0.7087398756745742
+[18Jan2025 04:51:01.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 has made the advancement [The Parrots and the Bats]
+[18Jan2025 04:57:35.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [The Parrots and the Bats]
+[18Jan2025 04:59:10.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [Alex's Mobs]
+[18Jan2025 05:13:47.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth has made the advancement [The Parrots and the Bats]

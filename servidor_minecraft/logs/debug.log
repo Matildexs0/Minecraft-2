@@ -3849,3 +3849,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [18Jan2025 03:25:30.925] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@30bf11ff into net.minecraft.network.Connection@7ff66bbe
 [18Jan2025 03:25:30.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth joined the game
 [18Jan2025 03:25:30.976] [Server thread/INFO] [Jade/]: Syncing config to julieth (863f5548-4f6e-30cc-be4f-d3230654189f)
+[18Jan2025 03:26:24.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DANIELXZFE) moved wrongly! 0.26382099425927663
+[18Jan2025 03:26:24.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DANIELXZFE) moved wrongly! 0.39141763626651027
+[18Jan2025 03:26:24.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DANIELXZFE) moved wrongly! 0.4712090909398512
+[18Jan2025 03:26:24.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DANIELXZFE) moved wrongly! 0.6622211461136658
+[18Jan2025 03:26:25.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DANIELXZFE) moved wrongly! 0.30469773280708523
+[18Jan2025 03:26:25.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DANIELXZFE) moved wrongly! 0.5285902713645783
+[18Jan2025 03:26:25.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DANIELXZFE) moved wrongly! 0.6663959891156992
+[18Jan2025 03:27:07.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 03:27:07.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 03:32:07.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 03:32:07.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 03:33:44.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth tried to swim in lava

@@ -1265,3 +1265,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [21Jan2025 22:30:19.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DANIELXZFE[/127.217.57.145:53001] logged in with entity id 1319 at (82.58424308295812, 170.0, -48.25424044867827)
 [21Jan2025 22:30:19.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE joined the game
 [21Jan2025 22:30:19.430] [Server thread/INFO] [Jade/]: Syncing config to DANIELXZFE (60aea8e0-017a-302d-9384-358ed29db2ab)
+[21Jan2025 22:48:24.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fuzzy (vehicle of jonathanxs0) moved wrongly! 0.31276643289209005
+[21Jan2025 22:48:24.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fuzzy (vehicle of jonathanxs0) moved wrongly! 0.6926849276746623
+[21Jan2025 22:48:24.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fuzzy (vehicle of jonathanxs0) moved wrongly! 0.2743873529828278
+[21Jan2025 22:48:24.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fuzzy (vehicle of jonathanxs0) moved wrongly! 0.6559138327507128
+[21Jan2025 22:48:57.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [Ice Bucket Challenge]
+[21Jan2025 23:01:58.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 has made the advancement [We Need to Go Deeper]
+[21Jan2025 23:01:59.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2918ms or 58 ticks behind
+[21Jan2025 23:02:57.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth has made the advancement [We Need to Go Deeper]
+[21Jan2025 23:07:01.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [We Need to Go Deeper]
+[21Jan2025 23:10:59.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 has made the advancement [A Terrible Fortress]
+[21Jan2025 23:11:00.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [A Terrible Fortress]
+[21Jan2025 23:11:06.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth has made the advancement [A Terrible Fortress]

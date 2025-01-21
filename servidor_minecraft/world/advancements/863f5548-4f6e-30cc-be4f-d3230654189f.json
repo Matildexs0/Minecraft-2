@@ -280,6 +280,7 @@
       "shrubland": "2025-01-16 20:53:52 +0000",
       "rocky_shrubland": "2025-01-16 20:55:53 +0000",
       "scrubland": "2025-01-16 20:58:45 +0000",
+      "erupting_inferno": "2025-01-21 23:05:39 +0000",
       "jade_cliffs": "2025-01-16 21:09:24 +0000",
       "old_growth_woodland": "2025-01-16 20:59:12 +0000",
       "lavender_forest": "2025-01-17 04:02:11 +0000",
@@ -560,6 +561,7 @@
       "baked_potato": "2025-01-17 05:34:09 +0000",
       "apple": "2025-01-16 21:05:28 +0000",
       "potato": "2025-01-21 03:04:14 +0000",
+      "bread": "2025-01-21 23:03:56 +0000",
       "carrot": "2025-01-17 18:55:39 +0000"
     },
     "done": false
@@ -1695,6 +1697,24 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-01-21 23:02:57 +0000"
+    },
+    "done": false
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-01-21 22:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-21 23:02:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-01-21 22:29:30 +0000"
@@ -1707,9 +1727,27 @@
     },
     "done": false
   },
+  "chococraft:recipes/food/chocobo_drumstick_cooked": {
+    "criteria": {
+      "has_raw_drumstick": "2025-01-21 22:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-21 23:02:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-01-21 22:29:30 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-01-21 22:40:16 +0000"
     },
     "done": true
   },

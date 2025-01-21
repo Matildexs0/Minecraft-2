@@ -3735,3 +3735,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [21Jan2025 22:33:22.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jan2025 22:38:21.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jan2025 22:38:22.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 22:43:21.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 22:43:21.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 22:48:21.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 22:48:22.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 22:48:24.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fuzzy (vehicle of jonathanxs0) moved wrongly! 0.31276643289209005
+[21Jan2025 22:48:24.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fuzzy (vehicle of jonathanxs0) moved wrongly! 0.6926849276746623
+[21Jan2025 22:48:24.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fuzzy (vehicle of jonathanxs0) moved wrongly! 0.2743873529828278
+[21Jan2025 22:48:24.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fuzzy (vehicle of jonathanxs0) moved wrongly! 0.6559138327507128
+[21Jan2025 22:48:57.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [Ice Bucket Challenge]
+[21Jan2025 22:53:21.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 22:53:22.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 22:55:53.311] [Worker-Main-33/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[21Jan2025 22:58:21.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 22:58:21.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 23:01:58.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 has made the advancement [We Need to Go Deeper]
+[21Jan2025 23:01:59.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2918ms or 58 ticks behind
+[21Jan2025 23:02:57.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth has made the advancement [We Need to Go Deeper]
+[21Jan2025 23:03:24.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 23:03:24.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 23:07:01.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [We Need to Go Deeper]
+[21Jan2025 23:08:24.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 23:08:24.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 23:10:59.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 has made the advancement [A Terrible Fortress]
+[21Jan2025 23:11:00.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [A Terrible Fortress]
+[21Jan2025 23:11:06.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth has made the advancement [A Terrible Fortress]

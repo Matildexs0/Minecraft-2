@@ -3871,3 +3871,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [21Jan2025 01:27:03.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cobalt (vehicle of jonathanxs0) moved wrongly! 1.3710523789289368
 [21Jan2025 01:27:03.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cobalt (vehicle of jonathanxs0) moved wrongly! 1.646375983172618
 [21Jan2025 01:27:03.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cobalt (vehicle of jonathanxs0) moved wrongly! 1.9174291503045993
+[21Jan2025 01:28:46.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 01:28:46.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 01:33:46.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 01:33:46.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

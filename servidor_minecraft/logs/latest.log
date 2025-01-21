@@ -1265,3 +1265,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [21Jan2025 02:52:15.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: julieth[/127.243.126.200:57817] logged in with entity id 547 at (32.252404992646184, 92.0, -129.33059587846876)
 [21Jan2025 02:52:15.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth joined the game
 [21Jan2025 02:52:15.086] [Server thread/INFO] [Jade/]: Syncing config to julieth (863f5548-4f6e-30cc-be4f-d3230654189f)
+[21Jan2025 03:18:20.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <julieth> A MIMIRRRRRRRRRR

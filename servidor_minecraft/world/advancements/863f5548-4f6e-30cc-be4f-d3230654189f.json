@@ -1699,7 +1699,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-01-21 23:02:57 +0000"
+      "minecraft:nether_wastes": "2025-01-21 23:02:57 +0000",
+      "minecraft:basalt_deltas": "2025-01-21 23:12:31 +0000"
     },
     "done": false
   },
@@ -1742,6 +1743,18 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-01-21 22:29:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-21 23:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-21 23:11:56 +0000"
     },
     "done": true
   },

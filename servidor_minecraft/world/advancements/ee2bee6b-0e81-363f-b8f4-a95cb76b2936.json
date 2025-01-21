@@ -1211,10 +1211,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-18 05:48:01 +0000",
+      "minecraft:blaze": "2025-01-21 23:18:11 +0000",
       "minecraft:skeleton": "2025-01-17 18:28:07 +0000",
       "minecraft:vindicator": "2025-01-18 05:49:07 +0000",
       "minecraft:spider": "2025-01-17 18:28:50 +0000",
       "minecraft:creeper": "2025-01-17 19:39:59 +0000",
+      "minecraft:wither_skeleton": "2025-01-21 23:09:54 +0000",
       "minecraft:cave_spider": "2025-01-18 04:10:06 +0000",
       "minecraft:zombie": "2025-01-17 03:42:31 +0000"
     },
@@ -2813,13 +2815,20 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-01-21 23:02:00 +0000"
+      "minecraft:nether_wastes": "2025-01-21 23:02:00 +0000",
+      "minecraft:basalt_deltas": "2025-01-21 23:12:15 +0000"
     },
     "done": false
   },
   "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-01-21 23:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-21 23:09:10 +0000"
     },
     "done": true
   },
@@ -2832,6 +2841,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-01-21 23:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-21 23:18:11 +0000"
     },
     "done": true
   },
@@ -2871,6 +2886,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-21 23:18:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-01-21 23:03:03 +0000"
@@ -2889,9 +2910,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-21 23:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-21 23:10:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-01-21 23:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-21 23:18:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-21 23:26:31 +0000"
     },
     "done": true
   },

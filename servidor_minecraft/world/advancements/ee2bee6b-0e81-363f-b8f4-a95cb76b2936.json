@@ -2665,6 +2665,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-21 01:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-21 01:33:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-21 01:33:12 +0000"
@@ -2677,15 +2689,45 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/seagull_steal": {
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
     "criteria": {
-      "ex": "2025-01-21 01:20:41 +0000"
+      "has_material": "2025-01-21 02:15:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
     "criteria": {
-      "has_hay_block": "2025-01-21 01:33:02 +0000"
+      "has_material": "2025-01-21 02:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-21 02:15:22 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-01-21 02:15:22 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-01-21 02:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-21 02:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-01-21 02:55:06 +0000"
     },
     "done": true
   },

@@ -3734,3 +3734,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [21Jan2025 03:31:15.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jan2025 03:36:15.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jan2025 03:36:15.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 03:41:15.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 03:41:15.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 03:46:15.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 03:46:15.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 03:51:15.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 03:51:15.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 03:56:15.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 03:56:15.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 03:56:28.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 has made the advancement [Dressed to Impress]
+[21Jan2025 04:01:15.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 04:01:15.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 04:06:15.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 04:06:15.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 04:11:15.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 04:11:15.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 04:13:01.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: julieth lost connection: Disconnected
+[21Jan2025 04:13:01.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth left the game
+[21Jan2025 04:14:28.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathanxs0 lost connection: Disconnected
+[21Jan2025 04:14:28.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 left the game
+[21Jan2025 04:14:31.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DANIELXZFE lost connection: Disconnected
+[21Jan2025 04:14:31.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE left the game
+[21Jan2025 04:16:15.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 04:16:15.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

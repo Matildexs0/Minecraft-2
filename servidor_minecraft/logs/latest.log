@@ -1266,3 +1266,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [21Jan2025 02:52:15.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth joined the game
 [21Jan2025 02:52:15.086] [Server thread/INFO] [Jade/]: Syncing config to julieth (863f5548-4f6e-30cc-be4f-d3230654189f)
 [21Jan2025 03:18:20.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <julieth> A MIMIRRRRRRRRRR
+[21Jan2025 03:56:28.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 has made the advancement [Dressed to Impress]
+[21Jan2025 04:13:01.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: julieth lost connection: Disconnected
+[21Jan2025 04:13:01.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth left the game
+[21Jan2025 04:14:28.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathanxs0 lost connection: Disconnected
+[21Jan2025 04:14:28.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 left the game
+[21Jan2025 04:14:31.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DANIELXZFE lost connection: Disconnected
+[21Jan2025 04:14:31.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE left the game

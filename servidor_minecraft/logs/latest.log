@@ -1274,3 +1274,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [24Jan2025 03:39:27.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth was impaled by Drowned
 [24Jan2025 03:41:08.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=158, z=-60} BlockPos{x=203, y=158, z=-62}
 [24Jan2025 03:41:08.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=158, z=-63} BlockPos{x=203, y=157, z=-63}
+[24Jan2025 03:45:44.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE has made the advancement [Nightmare Fuel]
+[24Jan2025 03:47:06.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE was slain by Zombified Piglin
+[24Jan2025 03:47:29.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: julieth moved too quickly! 0.896374950209605,-10.722248667987472,-1.5481882026536624

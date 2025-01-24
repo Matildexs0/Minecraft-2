@@ -1260,3 +1260,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [24Jan2025 03:19:53.976] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: julieth[/127.243.126.200:49865] logged in with entity id 672 at (49.85145078574097, 92.0, -119.96601826002549)
 [24Jan2025 03:19:53.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth joined the game
 [24Jan2025 03:19:54.054] [Server thread/INFO] [Jade/]: Syncing config to julieth (863f5548-4f6e-30cc-be4f-d3230654189f)
+[24Jan2025 03:23:41.877] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DANIELXZFE[/127.217.57.145:38547] logged in with entity id 1430 at (90.46063473507171, 169.0, -56.71199582380967)
+[24Jan2025 03:23:41.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE joined the game
+[24Jan2025 03:23:41.927] [Server thread/INFO] [Jade/]: Syncing config to DANIELXZFE (60aea8e0-017a-302d-9384-358ed29db2ab)
+[24Jan2025 03:23:56.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DANIELXZFE lost connection: Disconnected
+[24Jan2025 03:23:56.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE left the game
+[24Jan2025 03:25:38.933] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DANIELXZFE[/127.217.57.145:44469] logged in with entity id 2164 at (90.46063473507171, 169.0, -56.71199582380967)
+[24Jan2025 03:25:38.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DANIELXZFE joined the game
+[24Jan2025 03:25:38.990] [Server thread/INFO] [Jade/]: Syncing config to DANIELXZFE (60aea8e0-017a-302d-9384-358ed29db2ab)
+[24Jan2025 03:26:45.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth has made the advancement [A Seedy Place]
+[24Jan2025 03:31:03.136] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[24Jan2025 03:31:03.436] [Server thread/INFO] [naturescompass/]: Search succeeded: 2950 radius, 2479 samples
+[24Jan2025 03:39:27.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth was impaled by Drowned
+[24Jan2025 03:41:08.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=158, z=-60} BlockPos{x=203, y=158, z=-62}
+[24Jan2025 03:41:08.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=158, z=-63} BlockPos{x=203, y=157, z=-63}

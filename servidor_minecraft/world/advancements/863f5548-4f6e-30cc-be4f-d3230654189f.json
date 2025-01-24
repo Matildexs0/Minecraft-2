@@ -266,6 +266,7 @@
       "minecraft:snowy_slopes": "2025-01-16 20:53:01 +0000",
       "minecraft:cherry_grove": "2025-01-16 20:53:18 +0000",
       "minecraft:stony_peaks": "2025-01-18 04:24:51 +0000",
+      "minecraft:river": "2025-01-24 03:36:38 +0000",
       "minecraft:grove": "2025-01-18 04:16:56 +0000",
       "minecraft:forest": "2025-01-18 04:15:48 +0000",
       "minecraft:frozen_peaks": "2025-01-16 20:52:21 +0000",
@@ -1697,26 +1698,13 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-01-21 23:02:57 +0000",
-      "minecraft:basalt_deltas": "2025-01-21 23:12:31 +0000"
-    },
-    "done": false
-  },
-  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
-    "criteria": {
-      "has_raw_drumstick": "2025-01-21 22:40:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-01-21 23:02:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-21 22:29:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-01-21 22:29:30 +0000"
     },
@@ -1728,21 +1716,40 @@
     },
     "done": false
   },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-01-21 22:40:16 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/food/chocobo_drumstick_cooked": {
     "criteria": {
       "has_raw_drumstick": "2025-01-21 22:40:16 +0000"
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-01-21 22:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-01-21 23:02:57 +0000",
+      "minecraft:basalt_deltas": "2025-01-21 23:12:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-01-21 23:02:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_oxeye_daisy": "2025-01-21 22:29:30 +0000"
+      "entered_nether": "2025-01-21 23:02:57 +0000"
     },
     "done": true
   },
@@ -1758,9 +1765,129 @@
     },
     "done": true
   },
-  "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
-      "has_raw_drumstick": "2025-01-21 22:40:16 +0000"
+      "has_boat": "2025-01-24 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-24 03:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-01-24 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-24 03:26:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 03:37:29 +0000"
     },
     "done": true
   },

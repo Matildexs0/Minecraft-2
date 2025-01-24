@@ -2855,22 +2855,15 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "crying_obsidian": "2025-01-21 23:30:34 +0000"
+      "obsidian": "2025-01-21 22:48:57 +0000"
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-01-21 23:07:02 +0000",
-      "minecraft:basalt_deltas": "2025-01-21 23:14:31 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-01-21 23:09:03 +0000"
+      "has_obsidian": "2025-01-21 22:48:57 +0000"
     },
     "done": true
   },
@@ -2880,11 +2873,18 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "minecraft:nether/root": {
     "criteria": {
-      "blaze_rod": "2025-01-21 23:16:35 +0000"
+      "entered_nether": "2025-01-21 23:07:01 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-01-21 23:07:02 +0000",
+      "minecraft:basalt_deltas": "2025-01-21 23:14:31 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
@@ -2922,27 +2922,9 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "entered_nether": "2025-01-21 23:07:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-01-21 23:30:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-01-21 22:48:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-01-21 23:16:35 +0000"
+      "has_red_mushroom": "2025-01-21 23:09:03 +0000"
     },
     "done": true
   },
@@ -2952,9 +2934,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_obsidian": "2025-01-21 22:48:57 +0000"
+      "has_netherrack": "2025-01-21 23:09:17 +0000"
     },
     "done": true
   },
@@ -2964,15 +2946,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_netherrack": "2025-01-21 23:09:17 +0000"
+      "blaze_rod": "2025-01-21 23:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-21 23:16:35 +0000"
     },
     "done": true
   },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-01-21 23:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-21 23:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-21 23:30:34 +0000"
     },
     "done": true
   },

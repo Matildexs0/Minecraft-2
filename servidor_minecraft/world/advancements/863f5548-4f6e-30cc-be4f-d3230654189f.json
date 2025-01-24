@@ -1676,7 +1676,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2025-01-18 05:27:18 +0000",
-      "minecraft:cow": "2025-01-18 05:13:47 +0000"
+      "minecraft:cow": "2025-01-18 05:13:47 +0000",
+      "minecraft:goat": "2025-01-24 04:27:37 +0000"
     },
     "done": false
   },
@@ -1765,6 +1766,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-24 03:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-24 03:26:45 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-24 03:37:29 +0000"
@@ -1792,12 +1805,6 @@
   "biomesoplenty:recipes/transportation/magic_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-24 03:37:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-01-24 03:21:19 +0000"
     },
     "done": true
   },
@@ -1864,12 +1871,6 @@
   "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-24 03:37:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-01-24 03:26:45 +0000"
     },
     "done": true
   },

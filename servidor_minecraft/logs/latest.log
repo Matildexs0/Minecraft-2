@@ -1311,3 +1311,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [24Jan2025 04:34:20.445] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: julieth[/127.243.126.200:50519] logged in with entity id 13359 at (61.60589723017408, 160.0, -52.37886636419429)
 [24Jan2025 04:34:20.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth joined the game
 [24Jan2025 04:34:20.525] [Server thread/INFO] [Jade/]: Syncing config to julieth (863f5548-4f6e-30cc-be4f-d3230654189f)
+[24Jan2025 04:41:02.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 has made the advancement [Recrafted Creatures]
+[24Jan2025 04:46:44.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 has made the advancement [Ice Bucket Challenge]
+[24Jan2025 04:52:16.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathanxs0 lost connection: Disconnected
+[24Jan2025 04:52:16.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 left the game
+[24Jan2025 04:52:50.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: julieth lost connection: Disconnected
+[24Jan2025 04:52:50.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth left the game

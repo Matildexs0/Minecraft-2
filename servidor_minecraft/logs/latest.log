@@ -1261,3 +1261,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [11Feb2025 03:31:20.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathanxs0[/127.189.139.54:55907] logged in with entity id 342 at (-543.6293070842163, 71.0, -496.7977499471347)
 [11Feb2025 03:31:20.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 joined the game
 [11Feb2025 03:31:20.269] [Server thread/INFO] [Jade/]: Syncing config to jonathanxs0 (ee2bee6b-0e81-363f-b8f4-a95cb76b2936)
+[11Feb2025 03:37:17.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: julieth lost connection: Disconnected
+[11Feb2025 03:37:17.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth left the game
+[11Feb2025 03:37:17.126] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Feb2025 03:39:56.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathanxs0 lost connection: Disconnected
+[11Feb2025 03:39:56.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 left the game

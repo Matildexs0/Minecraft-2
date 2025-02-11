@@ -3680,3 +3680,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [11Feb2025 03:31:20.269] [Server thread/INFO] [Jade/]: Syncing config to jonathanxs0 (ee2bee6b-0e81-363f-b8f4-a95cb76b2936)
 [11Feb2025 03:32:02.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Feb2025 03:32:02.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Feb2025 03:37:02.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Feb2025 03:37:02.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Feb2025 03:37:17.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: julieth lost connection: Disconnected
+[11Feb2025 03:37:17.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: julieth left the game
+[11Feb2025 03:37:17.126] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Feb2025 03:39:56.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathanxs0 lost connection: Disconnected
+[11Feb2025 03:39:56.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathanxs0 left the game
+[11Feb2025 03:42:02.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Feb2025 03:42:02.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
